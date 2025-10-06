@@ -31,4 +31,3 @@ This project demonstrates the design and implementation of a secure, scalable mu
 - switch configuration
 - Security best practices in enterprise environments  
 
-📄 **Full Report:** [View PDF](./Network_OSPF_Config.pdf)
